@@ -1,0 +1,63 @@
+<ninja-keys class="no-print" placeholder="Type a command or search" hideBreadcrumbs>
+</ninja-keys>
+
+<script>
+	import 'ninja-keys';
+
+	const ninja = document.querySelector('ninja-keys');
+
+	if (ninja != null) {
+		ninja.data = [
+			{
+				id: 'print-cv',
+				title: 'Print Document',
+				hotkey: 'ctrl+P',
+				icon: '🖨️',
+				section: 'print',
+				handler: () => {
+					window.print();
+				},
+			},
+			{
+				id: 'Theme',
+				title: 'Change theme...',
+				icon: '🖥️',
+				children: ['Light Theme', 'Dark Theme', 'System Theme'],
+				hotkey: 'ctrl+T',
+				handler: () => {
+					ninja.open({ parent: 'Theme' });
+					return { keepOpen: true };
+				},
+			},
+			{
+				id: 'Light Theme',
+				title: 'Change theme to Light',
+				icon: '☀️',
+				parent: 'Theme',
+				handler: () => {
+					document.documentElement.classList.remove('dark');
+				},
+			},
+			{
+				id: 'Dark Theme',
+				title: 'Change theme to Dark',
+				icon: '🌙',
+				parent: 'Theme',
+				handler: () => {
+					document.documentElement.classList.add('dark');
+				},
+			},
+            {
+				id: 'System Theme',
+				title: 'Change theme to System',
+				icon: '🖥️',
+				parent: 'Theme',
+				handler: () => {
+					document.documentElement.classList.add('system');
+				},
+			},
+		];
+	}
+</script>
+
+<style></style>

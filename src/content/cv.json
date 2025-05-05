@@ -1,0 +1,365 @@
+{
+    "basics": {
+        "name": "Roger M. Herrera Rosario",
+        "label": "Full-Stack Developer",
+        "image": "https://unavatar.io/github/LockWard",
+        "email": "roger1210@live.com",
+        "phone": "+1 (849) 399-2388",
+        "url": "https://github.com/LockWard",
+        "summary": "I am a web developer with expertise in programming and proficiency in a wide range of web technologies. I am eager to join your team and apply my skills to support and contribute to the institution’s growth.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Santo Domingo",
+            "countryCode": "RD",
+            "country": "Dominican Republic"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "LockWard",
+                "url": "https://github.com/LockWard"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "roger-marinao-herrera-rosario-965202274",
+                "url": "https://www.linkedin.com/in/roger-mariano-herrera-rosario-965202274/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Sabor Latin Street Grill",
+            "position": "Programmer",
+            "url": "https://www.saborlatingrill.com/",
+            "startDate": "2024-12-01",
+            "endDate": "2025-01-015",
+            "summary": "Extracted data from the company’s sales and created a table to manage and view the data.",
+            "highlights": [
+                "..."
+            ]
+        },
+        {
+            "name": "Delta Comercial",
+            "position": "Web Developer",
+            "url": "https://deltacomercial.com.do/",
+            "startDate": "2021-01-01",
+            "endDate": "2021-06-01",
+            "summary": "Modified the internal-website to be more useful for the company.",
+            "highlights": [
+                "..."
+            ]
+        },
+        {
+            "name": "Delta Comercial",
+            "position": "Web Developer",
+            "url": "https://deltacomercial.com.do/",
+            "startDate": "2017-01-01",
+            "endDate": "2017-06-01",
+            "summary": "Worked on the company website.",
+            "highlights": [
+                "..."
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "url": "https://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "English Mescyt",
+            "url": "https://mescyt.gob.do/",
+            "area": "English's Student",
+            "studyType": "Scholarship",
+            "startDate": "2022-01-01",
+            "endDate": "2022-01-01",
+            "score": "4.0",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        },
+        {
+            "institution": "Instituto Tecnológico de las Américas",
+            "url": "https://itla.edu.do/",
+            "area": "Software Development",
+            "studyType": "University",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "score": "4.0",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        },
+        {
+            "institution": "Instituto Tecnológico Salesiano",
+            "url": "https://www.itesa.edu.do/",
+            "area": "Informatic",
+            "studyType": "Bachelor",
+            "startDate": "2014-01-01",
+            "endDate": "2018-01-01",
+            "score": "4.0",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        },
+        {
+            "institution": "Colegio Oratorio María Auxiliadora",
+            "url": "https://www.oma.edu.do/",
+            "area": "High Schooler",
+            "studyType": "High School",
+            "startDate": "2010-01-01",
+            "endDate": "2014-01-01",
+            "score": "4.0",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Microsoft Office Specialist",
+            "date": "2018-05-18",
+            "issuer": "Microsoft",
+            "url": "https://www.certiport.com/Portal/Pages/CredentialVerification.aspx"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "level": "Master",
+            "keywords": [
+                "Web development",
+                "Frontend"
+            ]
+        },
+        {
+            "name": "CSS",
+            "level": "Medium",
+            "keywords": [
+                "Web development",
+                "Frontend",
+                "Responsive Design"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "level": "Medium",
+            "keywords": [
+                "Web development",
+                "Frontend",
+                "Backend",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "level": "Medium",
+            "keywords": [
+                "Web development",
+                "Frontend",
+                "Backend",
+                "JavaScript Superset"
+            ]
+        },
+        {
+            "name": "Tailwindcss",
+            "level": "Medium",
+            "keywords": [
+                "Web development",
+                "Frontend",
+                "CSS Framework",
+                "Responsive Design"
+            ]
+        },
+        {
+            "name": "NodeJS",
+            "level": "Advanced",
+            "keywords": [
+                "Web development",
+                "Backend",
+                "JavaScript",
+                "Server-side"
+            ]
+        },
+        {
+            "name": "ExpressJS",
+            "level": "Medium",
+            "keywords": [
+                "Web development",
+                "Backend",
+                "JavaScript",
+                "Framework"
+            ]
+        },
+        {
+            "name": "MySQL",
+            "level": "Advanced",
+            "keywords": [
+                "SQL",
+                "Database",
+                "Backend"
+            ]
+        },
+        {
+            "name": "PostgreSQL",
+            "level": "Advanced",
+            "keywords": [
+                "SQL",
+                "Database",
+                "Backend"
+            ]
+        },
+        {
+            "name": "Git",
+            "level": "Advanced",
+            "keywords": [
+                "Version control system"
+            ]
+        },
+        {
+            "name": "GitHub",
+            "level": "Medium",
+            "keywords": [
+                "Version control system",
+                "Source code",
+                "Git"
+            ]
+        },
+        {
+            "name": "AstroJS",
+            "level": "Medium",
+            "keywords": [
+                "Web development",
+                "Frontend"
+            ]
+        },
+        {
+            "name": "ReactJS",
+            "level": "Medium",
+            "keywords": [
+                "Web development",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "NextJS",
+            "level": "Medium",
+            "keywords": [
+                "Web development",
+                "Frontend",
+                "JavaScript Framework",
+                "React"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": [
+                "Ferrets",
+                "Unicorns"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "MyBlog",
+            "description": "Myblog, is an api blog. Learning in depths how sequelize works.",
+            "github": "https://github.com/LockWard/Myblog",
+            "highlights": [
+                "Won award at AIHacks 2016"
+            ],
+            "url": "https://github.com/LockWard/Myblog"
+        },
+        {
+            "name": "Astro Movies",
+            "description": "Astro Movies is a website that i used for practice my skills with the astro framework.",
+            "github": "https://github.com/LockWard/astro-movies",
+            "highlights": [
+                "Won award at AIHacks 2016"
+            ],
+            "url": "https://astro-movies-delta.vercel.app/"
+        },
+        {
+            "name": "MyPortfolio",
+            "description": "My portfolio website showcasing my projects and skills.",
+            "github": "https://github.com/LockWard/astro-movies",
+            "highlights": [
+                "Won award at AIHacks 2016"
+            ],
+            "url": "https://github.com/LockWard/astro-movies"
+        },
+        {
+            "name": "Bot Youtube",
+            "description": "A bot that comments on youtube videos.",
+            "github": "https://github.com/LockWard/bot-comment-youtube",
+            "highlights": [
+                "Won award at AIHacks 2016"
+            ],
+            "url": "https://bot-comment-youtube.onrender.com/"
+        },
+        {
+            "name": "CSV to SQL",
+            "description": "Insert data from Csv to database SQL.",
+            "github": "https://github.com/LockWard/csv-to-sql",
+            "highlights": [
+                "Won award at AIHacks 2016"
+            ],
+            "url": "https://github.com/LockWard/csv-to-sql"
+        },
+        {
+            "name": "Myreports",
+            "description": "Myreports is a web application that allows users to create and manage reports.",
+            "github": "https://github.com/LockWard/Myreports",
+            "highlights": [
+                "Won award at AIHacks 2016"
+            ],
+            "url": "https://github.com/LockWard/Myreports"
+        }
+    ]
+}
