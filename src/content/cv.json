@@ -1,8 +1,8 @@
 {
     "basics": {
-        "name": "Roger M. Herrera Rosario",
+        "name": "Roger Mariano Herrera Rosario",
         "label": "Full-Stack Developer",
-        "image": "https://unavatar.io/github/LockWard",
+        "image": "/profile.webp",
         "email": "roger1210@live.com",
         "phone": "+1 (849) 399-2388",
         "url": "https://github.com/LockWard",
@@ -317,7 +317,7 @@
             "url": "https://github.com/LockWard/Myblog"
         },
         {
-            "name": "Astro Movies",
+            "name": "Astro-Movies",
             "description": "Astro Movies is a website that i used for practice my skills with the astro framework.",
             "github": "https://github.com/LockWard/astro-movies",
             "highlights": [
@@ -326,7 +326,7 @@
             "url": "https://astro-movies-delta.vercel.app/"
         },
         {
-            "name": "MyPortfolio",
+            "name": "Porfolio-printer",
             "description": "My portfolio website showcasing my projects and skills.",
             "github": "https://github.com/LockWard/astro-movies",
             "highlights": [
@@ -335,7 +335,7 @@
             "url": "https://github.com/LockWard/astro-movies"
         },
         {
-            "name": "Bot Youtube",
+            "name": "Bot-Youtube",
             "description": "A bot that comments on youtube videos.",
             "github": "https://github.com/LockWard/bot-comment-youtube",
             "highlights": [
